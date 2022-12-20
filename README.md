@@ -1,1 +1,1 @@
-# https-ipa-kh.github.io
+https://kh-store.github.io/ipa/
