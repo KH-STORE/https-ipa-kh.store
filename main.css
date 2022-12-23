@@ -2,7 +2,7 @@ body {
 margin: 0px;
 padding: 0;
 font-family: -apple-system;
-color: #8e0186;
+color: #fe8991;
 overflow-x: hidden;
 background-color: #421976;
 -webkit-touch-callout: none;
@@ -23,7 +23,7 @@ margin: 10px;
 border: 2px solid #e8effa;
 }
 .card-devs h1 {
-color: #e8effa;
+color: #fe8991;
 font-weight: 800;
 text-align: justify;
 margin-left: 20px;
