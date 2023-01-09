@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.Kasar.8BallPool</string>
+				<string>com.reantry.vivavideo</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>8 Ball Pool</string>
+				<string>ខ្មែរស្រលាញ់ខ្មែរ</string>
 			</dict>
 		</dict>
 	</array>
